@@ -1,0 +1,4 @@
+this is a file
+[A[C[C[C[C[C[C[C[C[C[C[C[C[line
+this is another line
+this is third line
